@@ -7,7 +7,7 @@ Repeat the code and Join the next Competition
 DM : Main File, generate meta_features    
 basic_parameters: the different parameters of xgb, easy to modify     
 single_xgb: xgb.cv, will be execute in the submission file   
-stack_model: !! main file, Teaching you Stacking
+stack_model: !! main file, Teaching you Stacking     
 submission: submissoin file     
 
 ## About Features
