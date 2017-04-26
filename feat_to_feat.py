@@ -5,9 +5,9 @@ from sklearn.decomposition import TruncatedSVD,NMF
 from sklearn.cluster import KMeans
 
 '''
-feat_present:生成文章，以及文章段落
-featf : 对文章进行tfidf
-concat_sparse_svd：对SVD降低维数之后，加在train_test中
+feat_present: article
+featf :tfidf
+concat_sparse_svd：SVD,merge data
 '''
 def feat_present(train_test,begin ,end):
     aux1 = []
