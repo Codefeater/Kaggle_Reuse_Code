@@ -1,5 +1,5 @@
 # Kaggle_Repeat_Code
-Repeat the code and Join the next Competition
+Reuse the code and Join the next Competition
 
 
 ## Stacking
