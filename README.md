@@ -11,7 +11,7 @@ stack_model: !! main file, Teaching you Stacking
 submission: submissoin file     
 
 ## About Features
-feat_to_feat: using the most usefule features to generate others features
+feat_to_feat: using the most useful features to generate others features
 
 
 ## Others
