@@ -28,6 +28,8 @@ if __name__ == '__main__':
     
     y_train = y_train.ravel()
     train_test = pd.concat()
+    x_train = " "
+    x_test = " "
     
     print(x_train.shape)
 
