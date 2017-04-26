@@ -13,7 +13,8 @@ import stack_model as sm
 
 train, test, y_train, ntrain, ntest, listing_id, listing_id_train = bd.load_base_data()
 
-
+x_train = pd.read_csv("") ## meta features
+x_test = pd.read_csv("") ## meta features
 
 xgb_params = bp.get_basic(3)
 
