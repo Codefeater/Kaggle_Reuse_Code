@@ -2,17 +2,16 @@
 Reuse the code and Join the next Competition
 
 
-## Stacking
+## Regression And Classification
 
-DM : Main File, generate meta_features    
-basic_parameters: the different parameters of xgb, easy to modify     
-single_xgb: xgb.cv, will be execute in the submission file   
-stack_model: !! main file, Teaching you Stacking     
-submission: submissoin file     
+feat_engineer.py : Main File, your main work about feature engineer
+config_params.py: the different parameters of xgb, easy to modify     
+stack_model.py: the main stacking technique here
+execute_base.py:  execute different model and get the meta features
+stacking_submit.py: get the meta features. and generate submissoin file     
 
-## About Features
+## residual
 feat_to_feat: using the most useful features to generate others features
 
-
 ## Others
-My code is rotten ;(, and the file cannot execute directly, but you can judge what is the file doing. 
+Keep on!
